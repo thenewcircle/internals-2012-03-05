@@ -6,5 +6,5 @@ Ken Jones, ken@marakana.com
 
 To clone the repository:
 
-	git clone 
+	git clone git://github.com/marakana/internals-2012-03-05.git
 
